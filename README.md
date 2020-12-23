@@ -1,6 +1,6 @@
 # OCaml-Uno
 
-A version of Uno in OCaml. 
+An implementation of the classic card game in OCaml. 
 
 In order to play, run 
 ```
