@@ -1,0 +1,562 @@
+[
+  {
+    "color": "red",
+    "value": "0",
+    "action": "none"
+  },
+  {
+    "color": "red",
+    "value": "0",
+    "action": "none"
+  },
+  {
+    "color": "green",
+    "value": "0",
+    "action": "none"
+  },
+  {
+    "color": "green",
+    "value": "0",
+    "action": "none"
+  },
+  {
+    "color": "blue",
+    "value": "0",
+    "action": "none"
+  },
+  {
+    "color": "blue",
+    "value": "0",
+    "action": "none"
+  },
+  {
+    "color": "yellow",
+    "value": "0",
+    "action": "none"
+  },
+  {
+    "color": "yellow",
+    "value": "0",
+    "action": "none"
+  },
+  {
+    "color": "red",
+    "value": "1",
+    "action": "none"
+  },
+  {
+    "color": "red",
+    "value": "1",
+    "action": "none"
+  },
+  {
+    "color": "green",
+    "value": "1",
+    "action": "none"
+  },
+  {
+    "color": "green",
+    "value": "1",
+    "action": "none"
+  },
+  {
+    "color": "blue",
+    "value": "1",
+    "action": "none"
+  },
+  {
+    "color": "blue",
+    "value": "1",
+    "action": "none"
+  },
+  {
+    "color": "yellow",
+    "value": "1",
+    "action": "none"
+  },
+  {
+    "color": "yellow",
+    "value": "1",
+    "action": "none"
+  },
+  {
+    "color": "red",
+    "value": "2",
+    "action": "none"
+  },
+  {
+    "color": "red",
+    "value": "2",
+    "action": "none"
+  },
+  {
+    "color": "green",
+    "value": "2",
+    "action": "none"
+  },
+  {
+    "color": "green",
+    "value": "2",
+    "action": "none"
+  },
+  {
+    "color": "blue",
+    "value": "2",
+    "action": "none"
+  },
+  {
+    "color": "blue",
+    "value": "2",
+    "action": "none"
+  },
+  {
+    "color": "yellow",
+    "value": "2",
+    "action": "none"
+  },
+  {
+    "color": "yellow",
+    "value": "2",
+    "action": "none"
+  },
+  {
+    "color": "red",
+    "value": "3",
+    "action": "none"
+  },
+  {
+    "color": "red",
+    "value": "3",
+    "action": "none"
+  },
+  {
+    "color": "green",
+    "value": "3",
+    "action": "none"
+  },
+  {
+    "color": "green",
+    "value": "3",
+    "action": "none"
+  },
+  {
+    "color": "blue",
+    "value": "3",
+    "action": "none"
+  },
+  {
+    "color": "blue",
+    "value": "3",
+    "action": "none"
+  },
+  {
+    "color": "yellow",
+    "value": "3",
+    "action": "none"
+  },
+  {
+    "color": "yellow",
+    "value": "3",
+    "action": "none"
+  },
+  {
+    "color": "red",
+    "value": "4",
+    "action": "none"
+  },
+  {
+    "color": "red",
+    "value": "4",
+    "action": "none"
+  },
+  {
+    "color": "green",
+    "value": "4",
+    "action": "none"
+  },
+  {
+    "color": "green",
+    "value": "4",
+    "action": "none"
+  },
+  {
+    "color": "blue",
+    "value": "4",
+    "action": "none"
+  },
+  {
+    "color": "blue",
+    "value": "4",
+    "action": "none"
+  },
+  {
+    "color": "yellow",
+    "value": "4",
+    "action": "none"
+  },
+  {
+    "color": "yellow",
+    "value": "4",
+    "action": "none"
+  },
+  {
+    "color": "red",
+    "value": "5",
+    "action": "none"
+  },
+  {
+    "color": "red",
+    "value": "5",
+    "action": "none"
+  },
+  {
+    "color": "green",
+    "value": "5",
+    "action": "none"
+  },
+  {
+    "color": "green",
+    "value": "5",
+    "action": "none"
+  },
+  {
+    "color": "blue",
+    "value": "5",
+    "action": "none"
+  },
+  {
+    "color": "blue",
+    "value": "5",
+    "action": "none"
+  },
+  {
+    "color": "yellow",
+    "value": "5",
+    "action": "none"
+  },
+  {
+    "color": "yellow",
+    "value": "5",
+    "action": "none"
+  },
+  {
+    "color": "red",
+    "value": "6",
+    "action": "none"
+  },
+  {
+    "color": "red",
+    "value": "6",
+    "action": "none"
+  },
+  {
+    "color": "green",
+    "value": "6",
+    "action": "none"
+  },
+  {
+    "color": "green",
+    "value": "6",
+    "action": "none"
+  },
+  {
+    "color": "blue",
+    "value": "6",
+    "action": "none"
+  },
+  {
+    "color": "blue",
+    "value": "6",
+    "action": "none"
+  },
+  {
+    "color": "yellow",
+    "value": "6",
+    "action": "none"
+  },
+  {
+    "color": "yellow",
+    "value": "6",
+    "action": "none"
+  },
+  {
+    "color": "red",
+    "value": "7",
+    "action": "none"
+  },
+  {
+    "color": "red",
+    "value": "7",
+    "action": "none"
+  },
+  {
+    "color": "green",
+    "value": "7",
+    "action": "none"
+  },
+  {
+    "color": "green",
+    "value": "7",
+    "action": "none"
+  },
+  {
+    "color": "blue",
+    "value": "7",
+    "action": "none"
+  },
+  {
+    "color": "blue",
+    "value": "7",
+    "action": "none"
+  },
+  {
+    "color": "yellow",
+    "value": "7",
+    "action": "none"
+  },
+  {
+    "color": "yellow",
+    "value": "7",
+    "action": "none"
+  },
+  {
+    "color": "red",
+    "value": "8",
+    "action": "none"
+  },
+  {
+    "color": "red",
+    "value": "8",
+    "action": "none"
+  },
+  {
+    "color": "green",
+    "value": "8",
+    "action": "none"
+  },
+  {
+    "color": "green",
+    "value": "8",
+    "action": "none"
+  },
+  {
+    "color": "blue",
+    "value": "8",
+    "action": "none"
+  },
+  {
+    "color": "blue",
+    "value": "8",
+    "action": "none"
+  },
+  {
+    "color": "yellow",
+    "value": "8",
+    "action": "none"
+  },
+  {
+    "color": "yellow",
+    "value": "8",
+    "action": "none"
+  },
+  {
+    "color": "red",
+    "value": "9",
+    "action": "none"
+  },
+  {
+    "color": "red",
+    "value": "9",
+    "action": "none"
+  },
+  {
+    "color": "green",
+    "value": "9",
+    "action": "none"
+  },
+  {
+    "color": "green",
+    "value": "9",
+    "action": "none"
+  },
+  {
+    "color": "blue",
+    "value": "9",
+    "action": "none"
+  },
+  {
+    "color": "blue",
+    "value": "9",
+    "action": "none"
+  },
+  {
+    "color": "yellow",
+    "value": "9",
+    "action": "none"
+  },
+  {
+    "color": "yellow",
+    "value": "9",
+    "action": "none"
+  },
+  {
+    "color": "red",
+    "value": "none",
+    "action": "skip"
+  },
+  {
+    "color": "red",
+    "value": "none",
+    "action": "skip"
+  },
+  {
+    "color": "green",
+    "value": "none",
+    "action": "skip"
+  },
+  {
+    "color": "green",
+    "value": "none",
+    "action": "skip"
+  },
+  {
+    "color": "blue",
+    "value": "none",
+    "action": "skip"
+  },
+  {
+    "color": "blue",
+    "value": "none",
+    "action": "skip"
+  },
+  {
+    "color": "yellow",
+    "value": "none",
+    "action": "skip"
+  },
+  {
+    "color": "yellow",
+    "value": "none",
+    "action": "skip"
+  },
+  {
+    "color": "red",
+    "value": "none",
+    "action": "reverse"
+  },
+  {
+    "color": "red",
+    "value": "none",
+    "action": "reverse"
+  },
+  {
+    "color": "green",
+    "value": "none",
+    "action": "reverse"
+  },
+  {
+    "color": "green",
+    "value": "none",
+    "action": "reverse"
+  },
+  {
+    "color": "blue",
+    "value": "none",
+    "action": "reverse"
+  },
+  {
+    "color": "blue",
+    "value": "none",
+    "action": "reverse"
+  },
+  {
+    "color": "yellow",
+    "value": "none",
+    "action": "reverse"
+  },
+  {
+    "color": "yellow",
+    "value": "none",
+    "action": "reverse"
+  },
+  {
+    "color": "red",
+    "value": "none",
+    "action": "drawtwo"
+  },
+  {
+    "color": "red",
+    "value": "none",
+    "action": "drawtwo"
+  },
+  {
+    "color": "green",
+    "value": "none",
+    "action": "drawtwo"
+  },
+  {
+    "color": "green",
+    "value": "none",
+    "action": "drawtwo"
+  },
+  {
+    "color": "blue",
+    "value": "none",
+    "action": "drawtwo"
+  },
+  {
+    "color": "blue",
+    "value": "none",
+    "action": "drawtwo"
+  },
+  {
+    "color": "yellow",
+    "value": "none",
+    "action": "drawtwo"
+  },
+  {
+    "color": "yellow",
+    "value": "none",
+    "action": "drawtwo"
+  },
+  {
+    "color": "wild",
+    "value": "none",
+    "action": "wildcard"
+  },
+  {
+    "color": "wild",
+    "value": "none",
+    "action": "wildcard"
+  },
+  {
+    "color": "wild",
+    "value": "none",
+    "action": "wildcard"
+  },
+  {
+    "color": "wild",
+    "value": "none",
+    "action": "drawfour"
+  },
+  {
+    "color": "wild",
+    "value": "none",
+    "action": "drawfour"
+  },
+  {
+    "color": "wild",
+    "value": "none",
+    "action": "drawfour"
+  },
+  {
+    "color": "wild",
+    "value": "none",
+    "action": "drawfour"
+  },
+  {
+    "color": "wild",
+    "value": "none",
+    "action": "drawfour"
+  }
+]

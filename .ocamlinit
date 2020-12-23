@@ -1,0 +1,12 @@
+#require "ounit2";;
+#require "yojson";;
+#require "ANSITerminal";;
+#require "Graphics";;
+#require "Camlimages";;
+#directory "_build";;
+#load "card.cmo";;
+#load "deck.cmo";;
+#load "player.cmo";;
+#load "command.cmo";;
+#load "state.cmo";;
+#load "gui.cmo";;
